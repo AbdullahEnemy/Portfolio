@@ -5,7 +5,7 @@ import CMS from "../assets/projects/CMS.jpeg";
 import laprec from "../assets/projects/laprec.jpeg";
 import gabru_manto from "../assets/projects/gabru_manto.jpeg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. Additionally, I have experience in mobile app development using Flutter. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer adept at crafting robust and scalable web applications. With expertise in front-end technologies such as React and Next.js, and back-end technologies including Node.js, MySQL, PostgreSQL, and MongoDB, I also bring experience in the MERN stack. My goal is to leverage my skills to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 export const ABOUT_TEXT = `I am a passionate and versatile full stack developer with extensive experience in building efficient and user-friendly web applications. Proficient in technologies such as React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB, I bring a deep curiosity for technology and a commitment to continuous learning. My career has been driven by a desire to understand and innovate, allowing me to excel in collaborative settings and tackle complex challenges. Outside of coding, I stay active, explore emerging technologies, and contribute to open-source projects.`;
 
