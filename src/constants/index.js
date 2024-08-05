@@ -18,6 +18,20 @@ export const EXPERIENCES = [
       "Contributed to the development of web applications using JavaScript and React.js. Assisted in building user interfaces and improving application performance. Collaborated with the development team to implement features and fix bugs. Gained practical experience in full-stack development and agile methodologies.",
     technologies: ["JavaScript", "React.js"],
   },
+  {
+    year: "2023",
+    role: "Bootcamp Participant",
+    company: "Devsinc",
+    description:
+      "Contributed to the development of web applications using MERN stack. Assisted in building user interfaces and improving application performance. Collaborated with the development team to implement features and fix bugs. Gained practical experience in full-stack development and agile methodologies.",
+    technologies: [
+      "MERN Stack",
+      "React.js",
+      "Node.js",
+      "Mongodb",
+      "Express.js",
+    ],
+  },
 ];
 
 export const PROJECTS = [
